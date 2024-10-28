@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Baking Delicious Brownies</title>
+    <link href="styles.css" rel="stylesheet" />
+</head>
+<body>
+    <h1>Baking Delicious Brownies</h1>
+    <p>Welcome to my brownie baking site! Here, you'll find tasty recipes, helpful tips, and everything you need to make the perfect brownies.</p>
+    <img src="brownies.jpg" alt="Delicious brownies" />
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="recipes.html">Recipes</a></li>
+            <li><a href="tips.html">Baking Tips</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+</body>
+</html>
+
