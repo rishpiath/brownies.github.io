@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brownie Recipes</title>
+    <link href="styles.css" rel="stylesheet" />
+</head>
+<body>
+    <h1>Brownie Recipes</h1>
+    <p>Here are some of my favorite brownie recipes:</p>
+    <ul>
+        <li>Classic Fudgy Brownies</li>
+        <li>Walnut Brownies</li>
+        <li>Blondies (White Brownies)</li>
+        <li>Peanut Butter Swirl Brownies</li>
+    </ul>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="recipes.html">Recipes</a></li>
+            <li><a href="tips.html">Baking Tips</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+</body>
+</html>
