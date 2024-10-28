@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Me</title>
+    <link href="styles.css" rel="stylesheet" />
+</head>
+<body>
+    <h1>Contact Me</h1>
+    <p>If you have any questions or want to share your brownie experiences, feel free to reach out!</p>
+    <p>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="recipes.html">Recipes</a></li>
+            <li><a href="tips.html">Baking Tips</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+</body>
+</html>
